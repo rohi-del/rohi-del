@@ -88,4 +88,8 @@
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=rohi-del&icon=5&color=6)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rohi-del&icon=5&color=6" />
+</p>
+
+---
