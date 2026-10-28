@@ -1,9 +1,10 @@
-<!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rohit%20Borannavar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Cloud%20%26%20DevOps&descSize=18&descAlignY=60" width="100%" />
+# Rohit Maruti Borannavar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=MCA+Graduate+from+Pune;Building+Backend+Apps+with+Node.js+%26+MySQL;Practicing+Data+Structures+%26+Problem+Solving;Cloud+%26+DevOps+as+my+extra+edge" alt="Typing animation" />
+### Software Engineer (Fresher) · Backend · Cloud & DevOps
+
+*MCA graduate from Pune who builds backend apps with Node.js and MySQL, and ships them the DevOps way.*
 
 <br/>
 
@@ -11,63 +12,71 @@
 ![MCA](https://img.shields.io/badge/🎓_MCA-Bharati_Vidyapeeth-0f2027?style=for-the-badge)
 ![Open to work](https://img.shields.io/badge/💼_Open_to-Trainee_Roles-2ea44f?style=for-the-badge)
 
-<br/>
-
 <a href="https://linkedin.com/in/rohit-borannavar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:rohitborannavar7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:rohitborannavar7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/rohi-del/library-management-system"><img src="https://img.shields.io/badge/Featured_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
-I'm an MCA graduate who enjoys building backend applications and understanding how things work under the hood. My DevOps internship taught me how code is tested, shipped and run in the real world, and that makes me a better developer.
+I like building things that work end to end: a clean database design, a solid API, and a simple UI on top. My DevOps internship taught me how code is tested, shipped and run in the real world, and that makes me a more careful developer.
+
+> ⚡ **Fun fact:** I automate everything I do more than twice.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🔭 What I'm doing now**
-- Building full-stack apps with Node.js, Express and MySQL
-- Practicing Data Structures and problem solving
-- Writing SQL: JOINs, GROUP BY, transactions, indexes
+### 🔭 Working on
+- Full-stack apps with **Node.js, Express and MySQL**
+- **SQL**: JOINs, GROUP BY, transactions, indexes
+- **Data Structures** and problem solving
 
 </td>
 <td width="50%" valign="top">
 
-**🌱 What I'm learning**
+### 🌱 Learning next
 - Kubernetes
-- More DSA (trees, graphs, dynamic programming)
-- Writing tests for my APIs
+- Trees, graphs and dynamic programming
+- Writing automated tests for APIs
 
 </td>
 </tr>
 </table>
 
-⚡ **Fun fact:** I automate everything I do more than twice!
-
----
+<br/>
 
 ## 🚀 Featured Project
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-<a href="https://github.com/rohi-del/library-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohi-del&repo=library-management-system&theme=tokyonight&show_owner=true" alt="Library Management System" />
-</a>
+### 📚 [Library Management System](https://github.com/rohi-del/library-management-system)
 
-</div>
+A full-stack app where students search and borrow books, and admins track overdue books and usage.
 
-**📚 Library Management System** · `Node.js` `Express` `MySQL` `JWT`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- Role-based access (admin and student), borrow and return flow, late fine calculation
-- SQL **transactions with row locking** so two students can't take the last copy together
-- JOIN and GROUP BY reports for overdue books and usage stats
-- Hand-written **Trie** (search autocomplete) and **LRU cache** (recently viewed), with unit tests
+- 🔐 Role-based access (admin and student) with JWT and bcrypt
+- 🔒 SQL **transactions with row locking**, so two students can't take the last copy together
+- 📈 JOIN and GROUP BY reports for overdue books and usage stats
+- 🧠 Hand-written **Trie** (search autocomplete) and **LRU cache** (recently viewed), with unit tests
 
----
+[**View the code →**](https://github.com/rohi-del/library-management-system)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -98,39 +107,41 @@ I'm an MCA graduate who enjoys building backend applications and understanding h
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
+<br/>
 
 ## ☁️ DevOps Projects
 
 | Project | What it does | Tools |
-|---|---|---|
-| **CI/CD for a web app** | Auto build and deploy on every push using webhooks | Jenkins, GitHub, AWS EC2, Bash |
-| **3-tier infrastructure** | Web, app and database tiers provisioned as code | Terraform, Ansible, AWS |
-| **Containerized multi-service app** | Multi-stage builds and one-command startup | Docker, Docker Compose |
+|:--|:--|:--|
+| 🔁 **CI/CD for a web app** | Builds and deploys automatically on every push using webhooks | Jenkins, GitHub, AWS EC2, Bash |
+| 🏗️ **3-tier infrastructure** | Web, app and database tiers created as code | Terraform, Ansible, AWS |
+| 🐳 **Containerized multi-service app** | Multi-stage builds and one-command startup | Docker, Docker Compose |
 
----
+<br/>
 
-## 📊 GitHub Stats
+## 🎓 Education and Certification
+
+| | |
+|:--|:--|
+| 🎓 **MCA** | Bharati Vidyapeeth, Kolhapur (2022 – 2024) |
+| 📜 **Master Certificate in Cloud Computing** | Fortune Cloud Technologies (2026) |
+| 💼 **DevOps Training Intern** | Cravita Technology (Sept 2025 – Present) |
+
+<br/>
+
+## 📫 Let's Connect
+
+I'm looking for a software engineer trainee role where I can learn from a good team and contribute to real projects.
+
+- 📧 **Email:** rohitborannavar7@gmail.com
+- 💼 **LinkedIn:** [rohit-borannavar](https://linkedin.com/in/rohit-borannavar)
+- 📍 **Location:** Pune, India
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohi-del&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohi-del&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohi-del&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohi-del&theme=tokyo-night&hide_border=true" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
-📫 **Let's connect:** rohitborannavar7@gmail.com
-
-<img src="https://komarev.com/ghpvc/?username=rohi-del&color=blue&label=Profile+views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
+![Stars](https://img.shields.io/github/stars/rohi-del/library-management-system?style=social)
+![Last commit](https://img.shields.io/github/last-commit/rohi-del/library-management-system?style=flat-square&color=2c5364)
 
 </div>
