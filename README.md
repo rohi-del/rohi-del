@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Maruti Borannavar</h1>
-<h3 align="center">💻 Software Engineer (Fresher) | Node.js · SQL · Data Structures | ☁️ Cloud & DevOps</h3>
+<h3 align="center">💻 Software Engineer (Fresher) | ☁️ Cloud & DevOps</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Enthusiast;Building+Backend+Apps+with+Node.js+%26+MySQL;Learning+Data+Structures+%26+Problem+Solving;MCA+Graduate" />
