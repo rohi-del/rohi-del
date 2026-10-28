@@ -121,16 +121,17 @@ Full-stack app where students borrow and return books and admins track overdue b
 
 ---
 
-# 🐍 Contribution Snake
+# 📊 GitHub Stats
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohi-del/rohi-del/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohi-del/rohi-del/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rohi-del/rohi-del/output/github-snake.svg" />
-</picture>
-</p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=rohi-del&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohi-del&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohi-del&layout=compact&theme=tokyonight"/>
+
+</p>
 ---
 
 # ✍️ Dev Quote
