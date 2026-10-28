@@ -2,7 +2,7 @@
 <h3 align="center">💻 Software Engineer (Fresher) | Node.js · SQL · Data Structures | ☁️ Cloud & DevOps</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=MCA+Graduate+from+Pune;Building+Backend+Apps+with+Node.js+%26+MySQL;Learning+Data+Structures+%26+Problem+Solving;Cloud+%26+DevOps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Enthusiast;Building+Backend+Apps+with+Node.js+%26+MySQL;Learning+Data+Structures+%26+Problem+Solving;MCA+Graduate" />
 </p>
 
 <p align="center">📍 Pune, India &nbsp;|&nbsp; 🎓 MCA, Bharati Vidyapeeth &nbsp;|&nbsp; 🔎 Open to software engineer trainee roles</p>
